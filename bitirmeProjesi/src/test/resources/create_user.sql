@@ -1,0 +1,2 @@
+insert into "user"(id, identity, first_name, last_name, gsm, revenue, credit_status, credit_score, credit_limit)
+values(1, '12345678912', 'firstName', 'lastName', '5555555555', 1000, true, 1000, 4000);
