@@ -1,6 +1,6 @@
 ﻿Graduation Project
 
-Projede katmanlı mimari ile oluşutruldu.Projede redis swagger exception handling postgresql spring hibernate ve testler yapılmıştır.Restendpointleri 
+Proje katmanlı mimari ile oluşutruldu.Projede redis swagger exception handling postgresql spring hibernate ve testler yapılmıştır.Restendpointleri 
 
 <http://localhost:8080/user>
 
